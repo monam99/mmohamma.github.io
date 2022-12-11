@@ -10,3 +10,6 @@ paperurl: 'https://arxiv.org/abs/2209.14368'
 ---
 With K. Chatterjee and R. Saona.
 
+#[Download paper here](https://arxiv.org/abs/2210.03635)
+
+#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
