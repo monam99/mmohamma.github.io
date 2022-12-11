@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mona Mohammadi"
   avatar           : "profile.png"
-  bio              : "Computer Science student at SUT"
+  bio              : "computer science student"
   location         : "Tehran, Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mailto:mona.mohammadi78@gmail.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "mona.mohammadi78@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
