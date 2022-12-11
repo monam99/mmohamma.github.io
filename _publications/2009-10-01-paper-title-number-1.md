@@ -12,3 +12,4 @@ With A. Abiad, L. de Lima, S. Kalantarzadeh, C. Oliveira.
 
 [Download paper here](https://arxiv.org/abs/2210.03635)
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
