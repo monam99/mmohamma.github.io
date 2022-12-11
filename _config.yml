@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter                  : mona_mohammadii
   username               : &twitter
-#facebook                 :
+facebook                 :
   username               :
   app_id                 :
   publisher              :
@@ -85,10 +85,10 @@ author:
   bio              : "Computer Science student at SUT"
   location         : "Tehran, Iran"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mailto:mona.mohammadi78@gmail.com"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "academicpages"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "mona_mohammadii"
