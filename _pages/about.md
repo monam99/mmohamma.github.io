@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am Mona, a senior bachelor's student of computer science and economics at the Sharif University of Technology, Tehran, Iran. Previously I was a scientific intern at IST Austria, working in Professor Chatterjee's amazing group on Prophet Inequality for a year. Besides my academic career, I do enjoy traveling, photography, and fitness. 
+Hey! I am Mona, a senior bachelor's student of Computer Science and Economics at the Sharif University of Technology, Tehran, Iran. Previously I was a scientific intern at IST Austria, working in [Professor Chatterjee](https://ist.ac.at/en/research/chatterjee-group/)'s amazing group for a year. At Sharif, I have a privilege to work with [Professor Tefagh](http://sharif.edu/~mtefagh/index.html). Besides my academic career, I do enjoy traveling, photography, and fitness. 
 
 Research
 ======
