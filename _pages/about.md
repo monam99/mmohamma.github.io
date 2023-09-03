@@ -19,7 +19,7 @@ Check out my website to get the lowdown on my academic journey and experiences! 
 
 Research
 ======
-My primary research interests lie in the intersection of Computer Science and Economics. In particular, I am interested in using mathematical and algorithmic methods to provide approximately efficient solutions in fields including _Matching Theory_, _Game Theory_, and _Mechanism Design_, especially under uncertainty and where incomplete information, agents’ incentives, and computational complexity need to be considered. <br>
+I'm passionate about delving into the dynamic world where Computer Science and Economics meet, and that's where Operations Research (OR) takes the spotlight. My focus? Harnessing the power of math and algorithms to craft smart solutions, especially in areas like Optimization, Revenue Management, and Mechanism Design. My Ph.D. journey has just begun, and I'm genuinely excited by the incredible research happening here, perfectly aligned with my interests. I'm eager to dive deeper into these fields and explore further. <br>
 So far I have worked on:
 * Prophet Inequality
 * Spectral Graph Theory
