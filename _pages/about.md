@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am Mona, a senior bachelor's student of Computer Science and Economics at the Sharif University of Technology, Tehran, Iran. Previously I was a scientific intern at IST Austria, working in [Professor Chatterjee](https://ist.ac.at/en/research/chatterjee-group/)'s amazing group for a year. At Sharif, I have a privilege to work with [Professor Tefagh](http://sharif.edu/~mtefagh/index.html). Besides my academic career, I do enjoy traveling, photography, and fitness. 
+Hey there! I'm Mona. I'm just starting my Ph.D. adventure in the world of Operations Research and Information Engineering at Cornell University. Right now, I'm currently knee-deep in this awesome project with Gallo ORACL, and I've got the super-awesome [Professor Tefagh]([http://sharif.edu/~mtefagh/index.html](https://people.orie.cornell.edu/shmoys/) as my guide.
+
+Before this academic adventure, I spent a year as a scientific intern at IST Austria, working alongside the brilliant minds of [Professor Chatterjee](https://ist.ac.at/en/research/chatterjee-group/)'s group.
+
+Back in my Sharif University days, I had the honor of teaming up with [Professor Tefagh](http://sharif.edu/~mtefagh/index.html).
+
+Check out my website to get the lowdown on my academic journey and experiences! 🚀😎
+
 
 Research
 ======
@@ -20,5 +27,6 @@ So far I have worked on:
 
 News
 ======
-* Dec 22 : I am going to give a talk about _Economics & Computation_ at _the Sharif University of Technology_ virtually in Persian . Write me an email if you are interested in attending.
+* Aug 21 : I am excited to announce my enrollment in the renowned Cornell University Operations Research and Industrial Engineering (ORIE) program, where I will be pursuing my Ph.D. journey.
+* Aug 7 : I am thrilled to announce the publication of our collaborative work with Professor Abiad Monge in the esteemed journal Discrete Applied Mathematics.
 
