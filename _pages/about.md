@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Mona. I'm just starting my Ph.D. adventure in the world of Operations Research and Information Engineering at Cornell University. Right now, I'm currently knee-deep in this awesome project with Gallo ORACL, and I've got the super-awesome [Professor David Shmoys](https://people.orie.cornell.edu/shmoys/) as my guide.
+Hey there! I'm Mona. I'm just starting my Ph.D. adventure in the world of Operations Research at Cornell University. I'm currently knee-deep in this awesome project with Gallo ORACL, and I've got the super-awesome [Professor David Shmoys](https://people.orie.cornell.edu/shmoys/) as my guide.
 
 Before this academic adventure, I spent a year as a scientific intern at IST Austria, working alongside the brilliant minds of [Professor Chatterjee](https://ist.ac.at/en/research/chatterjee-group/)'s group.
 
@@ -27,6 +27,6 @@ So far I have worked on:
 
 News
 ======
-* Aug 21 : I am excited to announce my enrollment in the renowned Cornell University Operations Research and Industrial Engineering (ORIE) program, where I will be pursuing my Ph.D. journey.
+* Aug 21 : I am excited to announce my enrollment in the Cornell University Operations Research and Information Engineering (ORIE) program, where I will be pursuing my Ph.D. journey.
 * Aug 7 : I am thrilled to announce the publication of our collaborative work with Professor Abiad Monge in the esteemed journal Discrete Applied Mathematics.
 
