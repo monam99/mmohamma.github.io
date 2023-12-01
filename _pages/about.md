@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Mona. I'm just starting my Ph.D. adventure in the world of Operations Research at Cornell University. I'm currently knee-deep in this awesome project with Gallo ORACL, and I've got the super-awesome [Professor David Shmoys](https://people.orie.cornell.edu/shmoys/) as my guide.
+Hey there! I'm Mona. I'm just starting my Ph.D. in Operations Research and Information Engineering at Cornell University. I'm currently working on a project with Gallo ORACL, and I've got the super-awesome [Professor David Shmoys](https://people.orie.cornell.edu/shmoys/) as my guide.
 
 Before this academic adventure, I spent a year as a scientific intern at IST Austria, working alongside the brilliant minds of [Professor Chatterjee](https://ist.ac.at/en/research/chatterjee-group/)'s group.
 
